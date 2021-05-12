@@ -13,3 +13,6 @@ def change_2():
 change_2()
 
 >>>>>>> refs/remotes/origin/master
+
+
+print('HHHH')
